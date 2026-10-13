@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 
-I am a results-driven AI/ML and data science professional with 5+ years of hands-on experience in building intelligent systems, automating workflows, and transforming raw data into actionable insights.
+As a motivated AI/ML and Data Science enthusiast, I have hands-on experience in Python, data analysis, machine learning fundamentals, and web development. I am passionate about building intelligent systems, automating workflows, and transforming data into meaningful insights while continuously expanding my technical skills.
 
 My work focuses on:
 
